@@ -1,0 +1,9 @@
+# ninja log v6
+14	88	7499314482099115	CMakeFiles/untitled.dir/main.c.obj	f7a869561bfceb1f
+8	152	7497927044462005	CMakeFiles/untitled.dir/carro.c.obj	cad213be613a4169
+88	178	7499314482843269	untitled.exe	23827d4292e8024
+13	409	7499325143985521	build.ninja	91bdd3b2d1a210f
+53	133	7498974087199771	CMakeFiles/untitled.dir/teste.c.obj	417c5668a083e0c2
+2	59	7497991103964821	CMakeFiles/untitled.dir/counter.c.obj	36f73f62ecb504bc
+27	105	7499311211668094	CMakeFiles/untitled.dir/requisicao.c.obj	584c6d473257ebd3
+30	99	7499311211708095	CMakeFiles/untitled.dir/estrutura.c.obj	672e6573f65858e3
